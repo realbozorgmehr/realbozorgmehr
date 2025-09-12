@@ -13,7 +13,7 @@ am eager to gain more knowledge in my working field.
 ## Tech Stack
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytest,django,fastapi,linux,bash,git,github,postgres,sqlalchemy,redis,docker,postman,insomnia&perline=7" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytest,django,fastapi,linux,bash,git,github,postgres,sqlalchemy,redis,docker,nginx,insomnia&perline=7" />
   </a>
 </p>
 
