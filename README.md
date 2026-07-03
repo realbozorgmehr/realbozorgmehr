@@ -1,30 +1,58 @@
-<h1 align="center">I'm Abolfazl Kameli</h1>
+<h1 align="center">Hi, I'm Abolfazl Kameli 👋</h1>
 
-## About Me
-
-My name is Abolfazl Kameli and I have been working in the field of server side programming for more than a year.
-In my personal life, i like to stick to my goals and work hard to achieve them. I enjoy learning new computer topics and
-am eager to gain more knowledge in my working field.
-
-- 💬 Ask me about **Python, Django and Linux**
-
-- 📫 How to reach me **abolfazlkameli0@gmail.com**
-
-## Tech Stack
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytest,django,fastapi,linux,bash,git,github,postgres,sqlalchemy,redis,docker,nginx,insomnia&perline=7" />
-  </a>
+Backend Developer • Python • Django • FastAPI 
 </p>
 
+---
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlKameli&theme=github-compact)
-<div>
+## 👨‍💻 About Me
 
-## Connect with me:
+I'm a backend developer focused on building clean, scalable, and maintainable backend systems with Python.
 
-- Email: [abolfazlkameli0@gmail.com](mailto:abolfazlkameli0@gmail.com)
-- Telegram: [@real_denver](https://t.me/real_denver)
-- Instagram: [realbozorgmehr](https://www.instagram.com/realbozorgmehr)
+I enjoy designing software that's not only functional, but also well-structured, testable, and production-ready. I'm always exploring backend architecture, databases, and distributed systems to improve my engineering skills.
 
-</div>
+- 💬 Ask me about **Python, Django, FastAPI, Linux, Backend Architecture**
+- 📫 Reach me at **abolfazlkameli0@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B" height="30"/>
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" height="30"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="30"/>
+
+</p>
+
+- **Programming Languages:** Python  
+- **Frameworks & Libraries:** Django, Django REST Framework, FastAPI, SQLAlchemy, Celery  
+- **Databases:** PostgreSQL, Redis, SQLite  
+- **DevOps & Tools:** Linux, Docker, Git, NGINX  
+- **Software Design & Architecture:** Database Design, Backend System Design  
+- **Testing:** Pytest
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlKameli&theme=github-compact)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [abolfazlkameli0@gmail.com](mailto:abolfazlkameli0@gmail.com)
+- 💬 Telegram: [@real_denver](https://t.me/real_denver)
