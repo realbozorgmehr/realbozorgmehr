@@ -21,21 +21,21 @@ I enjoy designing software that's not only functional, but also well-structured,
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B" height="30"/>
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B" alt="Python" style="height:30px; margin:5px;"/>
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" style="height:30px; margin:5px;"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" style="height:30px; margin:5px;"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" style="height:30px; margin:5px;"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" style="height:30px; margin:5px;"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" style="height:30px; margin:5px;"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="30"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest" style="height:30px; margin:5px;"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" style="height:30px; margin:5px;"/>
+<img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="NGINX" style="height:30px; margin:5px;"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" style="height:30px; margin:5px;"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" style="height:30px; margin:5px;"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" style="height:30px; margin:5px;"/>
 
 </p>
 
