@@ -17,6 +17,17 @@ I enjoy designing software that's not only functional, but also well-structured,
 
 ---
 
+## 🧠 Interested In
+
+- Software Engineering & System Design
+- Backend Architecture
+- Database Internals
+- Computer Systems
+- Java & JVM Ecosystem
+- Open Source Development
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
