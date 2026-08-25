@@ -59,10 +59,6 @@ I enjoy designing software that's not only functional, but also well-structured,
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlKameli&theme=github-compact)
-
----
-
 ## 📫 Connect with Me
 
 - 📧 Email: [abolfazlkameli0@gmail.com](mailto:abolfazlkameli0@gmail.com)
